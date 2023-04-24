@@ -7,3 +7,11 @@ body {
 img {
   max-width: 100%;
 }
+
+.dog{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+
